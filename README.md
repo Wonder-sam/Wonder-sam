@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a mobile application with flutter
-- 🌱 I’m currently learning flutter(dart) and python
+🔭 I’m currently working on a mobile application with flutter
+🌱 I’m currently learning flutter(dart) and python
 - 👯 I’m looking to collaborate on any web application or mobile app as well as any applicaiton written in java or C++
 - 🤔 I’m looking for help with gaining knowlege and skills in networking and cybersecurity
 - 💬 Ask me about the best anime and we'll have a lengthy conversation
